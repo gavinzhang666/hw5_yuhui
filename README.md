@@ -7,7 +7,7 @@ a Python parser backed by an OS-entropy RNG.
 Demonstrated inside **Claude Code running in VS Code**, which auto-discovers
 skills placed under `.claude/skills/`.
 
-📺 **Video walkthrough:** 
+📺 **Video walkthrough:** https://youtu.be/2v39uD7egkI
 
 ## What this skill does
 
